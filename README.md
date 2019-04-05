@@ -1,5 +1,5 @@
 # KenKen
-Solving KenKen problems using Python
+Solving KenKen puzzles using Python
 
 python kenken.py
 
